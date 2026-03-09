@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Dhiraj Patil",
+    "title": "Salesforce Administrator | Salesforce Developer | Field Service Lightning (FSL) | Flow Automation | Apex & LWC",
+    "summary": "I am a Salesforce Administrator with 2 years of hands-on experience in Sales Cloud, Service Cloud, and Salesforce Field Service (FSL). I have worked on real-time business implementations across Sales Cloud, Service, Field Service Lightning (FSL) and non-profit domains. I specialize in configuring Work Orders, Service Appointments, automation using Flows, managing Salesforce Security (Profiles, Permission Sets, Sharing Rules), and supporting field operations through FSL. I have contributed to projects for organizations like Shakti Pumps, Merino Industries, and Reliance Life Sciences, Society for the Prevention of Cruelty to Animals (SPCA). Along with administration, I also have working knowledge of Apex and Lightning Web Components (LWC), allowing me to collaborate effectively with development teams and implement scalable solutions. I am passionate about optimizing business processes, improving field service efficiency, and delivering secure, automated Salesforce solutions.",
+    "location": "Pune Division, Maharashtra, India",
+    "email": "dhirajdpatil14@gmail.com",
+    "phone": "",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/dhirajpatil777"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Plus91Labs",
+      "role": "Salesforce Developer",
+      "dates": "March 2024 - Present (2 years 1 month)",
+      "location": "Gwalior, Madhya Pradesh, India",
+      "bullets": [
+        "Configured and maintained Sales Cloud and Service Cloud applications based on business requirements.",
+        "Implemented and administered Salesforce Field Service (FSL), including Work Orders, Service Appointments, Service Territories, Scheduling Policies, and Service Resources.",
+        "Designed and developed Record-Triggered Flows to automate business processes and reduce manual effort.",
+        "Managed Salesforce Security model including Profiles, Permission Sets, Role Hierarchy, Sharing Rules, and Manual Sharing.",
+        "Created and maintained Validation Rules and Approval Processes to ensure data accuracy and compliance.",
+        "Provided production support by troubleshooting issues and ensuring system stability.",
+        "Collaborated with developers on Apex classes, triggers, and Lightning Web Components (LWC) enhancements.",
+        "Built Reports and Dashboards to improve visibility of sales and service operations."
+      ]
+    }
+  ],
+  "achievements": [],
+  "projects": [],
+  "skills": [
+    {
+      "category": "Top Skills",
+      "items": [
+        "Salesforce Administration",
+        "Salesforce Service Cloud",
+        "Salesforce Field Service (FSL)"
+      ]
+    },
+    {
+      "category": "Other Skills",
+      "items": [
+        "Flow Automation",
+        "Apex & LWC",
+        "Security & Access Control",
+        "Sales Cloud"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "K.B.H.S.S. Trust's Dr.B.V. Hiray College of Management & Research Centre Malegaon",
+      "degree": "Master of Computer Applications - MCA, Information Technology",
+      "dates": "March 2019 - October 2022"
+    },
+    {
+      "institution": "RSSPM'S NANASAHEB YASHAVANTRAO N.CHAVAN ARTS,SCIENCE&COMMERCE COLLEGE,CHALISGAON",
+      "degree": "Bachelor's degree, Information Technology",
+      "dates": "June 2015 - November 2019"
+    }
+  ],
+  "certifications": [
+    "Overview of Salesforce.com",
+    "Overview of Salesforce.com",
+    "Overview of Salesforce.com",
+    "Trailhead Ranger"
+  ],
+  "awards": [],
+  "extra": [
+    "Languages: English (Professional Working), Hindi (Professional Working), Marathi (Native or Bilingual)",
+    "Tags: #SalesforceDeveloper #Apex #Automation #WebDevelopment #salesforce #salesforceAdmin # salesforceDeveloper"
+  ]
+}
